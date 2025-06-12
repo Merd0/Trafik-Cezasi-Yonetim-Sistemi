@@ -19,7 +19,7 @@ Sistemin temel hedefleri şunlar:
 
 Bu proje, aşağıdaki temel teknolojilerle geliştirildi:
 
-* **C#:** Uygulamanın kalbi olan programlama dili. ❤️
+* **C#:** Uygulamanın ana programlama dili.
 * **Windows Forms (WinForms):** Kullanıcı arayüzünü (UI) oluşturmak için kullanılan framework. 🖼️
 
 ---
