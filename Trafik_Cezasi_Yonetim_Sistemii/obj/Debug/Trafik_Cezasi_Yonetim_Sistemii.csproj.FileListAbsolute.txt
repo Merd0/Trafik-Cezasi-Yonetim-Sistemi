@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\bin\Debug\Trafik_Cezasi_Yonetim_Sistemii.exe.config
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\bin\Debug\Trafik_Cezasi_Yonetim_Sistemii.exe
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\bin\Debug\Trafik_Cezasi_Yonetim_Sistemii.pdb
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.cezaEkleForm.resources
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.cezaSorgulamaForm.resources
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.Form1.resources
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.polisPanel.resources
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.Properties.Resources.resources
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.exe
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.pdb
+C:\Users\hp\source\repos\Trafik_Cezasi_Yonetim_Sistemii\Trafik_Cezasi_Yonetim_Sistemii\obj\Debug\Trafik_Cezasi_Yonetim_Sistemii.exe.config
