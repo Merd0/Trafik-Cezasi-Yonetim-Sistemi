@@ -84,11 +84,3 @@ Projeye katkıda bulunmak isterseniz, çok sevinirim! 😊 Lütfen aşağıdaki 
 3.  Değişikliklerinizi **commit edin**: (`git commit -m 'Harika bir özellik eklendi'`).
 4.  Dalınızı **push edin**: (`git push origin feature/HarikaOzellik`).
 5.  Bir **Pull Request (Çekme İsteği) açın**. 🚀
-
----
-
-## ⚖️ Lisans
-
-Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için lütfen `LICENSE` dosyasına göz atın.
-
----
