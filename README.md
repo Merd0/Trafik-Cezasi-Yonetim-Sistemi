@@ -1,5 +1,3 @@
-Harika! Projenizin GitHub README'si için hem bilgilendirici hem de dikkat çekici, emojilerle süslenmiş bir metin hazırladım. Direkt kopyalayıp yapıştırabilirsiniz:
-
 🚗 Trafik Cezası Yönetim Sistemi 👮
 Merhaba! Bu proje, sürücülere kesilen trafik cezalarının kolayca yönetilmesini ve takip edilmesini sağlayan basit bir Windows Forms uygulamasıdır. Hem polis memurlarının yeni cezaları sisteme eklemesi hem de vatandaşların kendi cezalarını sorgulaması için tasarlandı.
 
